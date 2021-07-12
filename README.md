@@ -1,17 +1,24 @@
 # README #
 
-![yes](https://imgur.com/XTSl70O.jpg)
-
-This is the repository used for the SWitCH 2020 project
+This is the repository used for the SWitCH 2020/2021 (Postgraduate in Software Development course @ Instituto Superior de Engenharia do Porto) project - Family Finance Application.
 
 ## What is this repository for? ##
 
-It contains the project developed by the group.
+It contains the project developed by the group 3 in the context of the course.
 
 
 ## Who do I talk to? ##
-In case you have any problem, please talk to:
-* Ângelo Martins (amm@isep.ipp.pt)
+Group 3 Members:
+
+- Bruno Tamames
+- Diogo Ribeiro
+- João Pinto
+- Manuel Almeida
+- Miguel Loureiro
+- Ricardo Batista
+- Ricardo Nogueira
+- Tomás Osswald
+
 
 ## How was the .gitignore file generated? ##
 .gitignore file was generated based on https://www.gitignore.io/ with the following keywords:
