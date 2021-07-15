@@ -1,10 +1,17 @@
 # README #
 
-This is the repository used for the SWitCH 2020/2021 (Postgraduate in Software Development course @ Instituto Superior de Engenharia do Porto) project - Family Finance Application.
+This is the repository used for the SWitCH 2020/2021 **(Postgraduate in Software Development course @ Instituto Superior de Engenharia do Porto) project - Family Finance Management Application.**
+
+This is an Application using **DDD, Onion Architecture, Java, Javascript, HTML5, CSS, SpringBoot, React and H2 (Also PostgreSQL).**
+
+This started as a simple application (Back-End only) with a layered architecture and during the second semester we performed a major Refactor, having DDD and Onion Architecture as reference.
+
+Then, the SpringBoot Framework was introduced and later on React, in order to make it to a Single Page Application.
+
 
 ## What is this repository for? ##
 
-It contains the project developed by the group 3 in the context of the course.
+It contains the project developed by the group 3 in the context of the course (Postgraduate in Software Development course @ Instituto Superior de Engenharia do Porto).
 
 
 ## Who do I talk to? ##
