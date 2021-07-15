@@ -8,6 +8,8 @@ This started as a simple application (Back-End only) with a layered architecture
 
 Then, the SpringBoot Framework was introduced and later on React, in order to make it to a Single Page Application.
 
+More information can be found in the Wiki section of this Repository (Documentation is currently in Portuguese)
+
 
 ## What is this repository for? ##
 
